@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c1a2ac-de1d-423f-8942-9a1eda08a098" name="Default" comment="" />
+    <list default="true" id="760a326c-0e48-4b40-9b39-4e95c777c09a" name="Default" comment="" />
     <ignored path="AndroCam.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1149,7 +1149,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\Johann\Documents\Projects\AndroCam\AndroCam" value="4352126368582" />
+        <entry key="C:\Users\Johann\Documents\Projects\AndroCam\AndroCam" value="4352131784992" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1495,6 +1495,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
@@ -1549,7 +1550,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1705,10 +1705,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4c1a2ac-de1d-423f-8942-9a1eda08a098" name="Default" comment="" />
-      <created>1450708797439</created>
+      <changelist id="760a326c-0e48-4b40-9b39-4e95c777c09a" name="Default" comment="" />
+      <created>1450710598293</created>
       <option name="number" value="Default" />
-      <updated>1450708797439</updated>
+      <updated>1450710598293</updated>
     </task>
     <servers />
   </component>
